@@ -1,0 +1,448 @@
+[
+  {
+    "answers": [],
+    "benefits": [],
+    "next": "1",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1"
+    ],
+    "benefits": [],
+    "next": "2",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "7"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "1",
+      "8"
+    ],
+    "benefits": [
+      "elegant_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual, with elegant looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "1",
+      "9"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "result",
+    "reason": "that are casual with trendy looks, minimum detailing and moderate boldness"
+  },
+  {
+    "answers": [
+      "1",
+      "10"
+    ],
+    "benefits": [
+      "experimental_look"
+    ],
+    "next": "result",
+    "reason": "with any Patterns & Colors. Be experimental"
+  },
+  {
+    "answers": [
+      "1",
+      "11"
+    ],
+    "benefits": [
+      "breezy_look"
+    ],
+    "next": "result",
+    "reason": "with comfortable fabrics and colorful prints which will give you a fresh look"
+  },
+  {
+    "answers": [
+      "1",
+      "12"
+    ],
+    "benefits": [
+      "stylish_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual with stylish looks"
+  },
+  {
+    "answers": [
+      "2"
+    ],
+    "benefits": [],
+    "next": "4",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "7"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "2",
+      "8"
+    ],
+    "benefits": [
+      "elegant_looks"
+    ],
+    "next": "7",
+    "reason": "that are casual, with elegant looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "2",
+      "9"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "7",
+    "reason": "that are casual with trendy looks, minimum detailing and moderate boldness"
+  },
+  {
+    "answers": [
+      "2",
+      "10"
+    ],
+    "benefits": [
+      "experimental_look"
+    ],
+    "next": "7",
+    "reason": "with any Patterns & Colors. Be experimental"
+  },
+  {
+    "answers": [
+      "2",
+      "11"
+    ],
+    "benefits": [
+      "breezy_look"
+    ],
+    "next": "7",
+    "reason": "with comfortable fabrics and colorful prints which will give you a fresh look"
+  },
+  {
+    "answers": [
+      "2",
+      "12"
+    ],
+    "benefits": [
+      "stylish_looks"
+    ],
+    "next": "7",
+    "reason": "that are casual with stylish looks"
+  },
+  {
+    "answers": [
+      "3"
+    ],
+    "benefits": [
+      "professional_look"
+    ],
+    "next": "result",
+    "reason": "which are professional looking and avoid experimentation and casual styles"
+  },
+  {
+    "answers": [
+      "3",
+      "7"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "3",
+      "8"
+    ],
+    "benefits": [
+      "elegant_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual, with elegant looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "3",
+      "9"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "result",
+    "reason": "that are casual with trendy looks, minimum detailing and moderate boldness"
+  },
+  {
+    "answers": [
+      "3",
+      "10"
+    ],
+    "benefits": [
+      "experimental_look"
+    ],
+    "next": "result",
+    "reason": "with any Patterns & Colors. Be experimental"
+  },
+  {
+    "answers": [
+      "3",
+      "11"
+    ],
+    "benefits": [
+      "breezy_look"
+    ],
+    "next": "result",
+    "reason": "with comfortable fabrics and colorful prints which will give you a fresh look"
+  },
+  {
+    "answers": [
+      "3",
+      "12"
+    ],
+    "benefits": [
+      "stylish_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual with stylish looks"
+  },
+  {
+    "answers": [
+      "4"
+    ],
+    "benefits": [
+      "smart_look"
+    ],
+    "next": "result",
+    "reason": "which are formal looking that will make you look both smart and stylish"
+  },
+  {
+    "answers": [
+      "4",
+      "7"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "4",
+      "8"
+    ],
+    "benefits": [
+      "elegant_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual, with elegant looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "4",
+      "9"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "result",
+    "reason": "that are casual with trendy looks, minimum detailing and moderate boldness"
+  },
+  {
+    "answers": [
+      "4",
+      "10"
+    ],
+    "benefits": [
+      "experimental_look"
+    ],
+    "next": "result",
+    "reason": "with any Patterns & Colors. Be experimental"
+  },
+  {
+    "answers": [
+      "4",
+      "11"
+    ],
+    "benefits": [
+      "breezy_look"
+    ],
+    "next": "result",
+    "reason": "with comfortable fabrics and colorful prints which will give you a fresh look"
+  },
+  {
+    "answers": [
+      "4",
+      "12"
+    ],
+    "benefits": [
+      "stylish_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual with stylish looks"
+  },
+  {
+    "answers": [
+      "5"
+    ],
+    "benefits": [
+      "comfortable_stylish_feel"
+    ],
+    "next": "result",
+    "reason": "with a comfortable feel, stylish and fashionable with a tad of conservativeness"
+  },
+  {
+    "answers": [
+      "5",
+      "7"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "5",
+      "8"
+    ],
+    "benefits": [
+      "elegant_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual, with elegant looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "5",
+      "9"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "result",
+    "reason": "that are casual with trendy looks, minimum detailing and moderate boldness"
+  },
+  {
+    "answers": [
+      "5",
+      "10"
+    ],
+    "benefits": [
+      "experimental_look"
+    ],
+    "next": "result",
+    "reason": "with any Patterns & Colors. Be experimental"
+  },
+  {
+    "answers": [
+      "5",
+      "11"
+    ],
+    "benefits": [
+      "breezy_look"
+    ],
+    "next": "result",
+    "reason": "with comfortable fabrics and colorful prints which will give you a fresh look"
+  },
+  {
+    "answers": [
+      "5",
+      "12"
+    ],
+    "benefits": [
+      "stylish_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual with stylish looks"
+  },
+  {
+    "answers": [
+      "6"
+    ],
+    "benefits": [
+      "detailed_look"
+    ],
+    "next": "result",
+    "reason": "which in addition to being professional also creates a solid impression"
+  },
+  {
+    "answers": [
+      "6",
+      "7"
+    ],
+    "benefits": [],
+    "next": "result",
+    "reason": ""
+  },
+  {
+    "answers": [
+      "6",
+      "8"
+    ],
+    "benefits": [
+      "elegant_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual, with elegant looks and a fair amount of detailing"
+  },
+  {
+    "answers": [
+      "6",
+      "9"
+    ],
+    "benefits": [
+      "trendy_look"
+    ],
+    "next": "result",
+    "reason": "that are casual with trendy looks, minimum detailing and moderate boldness"
+  },
+  {
+    "answers": [
+      "6",
+      "10"
+    ],
+    "benefits": [
+      "experimental_look"
+    ],
+    "next": "result",
+    "reason": "with any Patterns & Colors. Be experimental"
+  },
+  {
+    "answers": [
+      "6",
+      "11"
+    ],
+    "benefits": [
+      "breezy_look"
+    ],
+    "next": "result",
+    "reason": "with comfortable fabrics and colorful prints which will give you a fresh look"
+  },
+  {
+    "answers": [
+      "6",
+      "12"
+    ],
+    "benefits": [
+      "stylish_looks"
+    ],
+    "next": "result",
+    "reason": "that are casual with stylish looks"
+  }
+]

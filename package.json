@@ -1,0 +1,52 @@
+{
+  "name": "Wit-Facebook",
+  "version": "1.0.0",
+  "description": "Simple Wit-Facebook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "bot": "node bot.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "jest": {
+    "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
+    "unmockedModulePathPatterns": [
+      "core-js/.*",
+      "sshpk/.*"
+    ]
+  },
+  "dependencies": {
+    "@google-cloud/language": "^0.1.1",
+    "@google-cloud/storage": "^0.1.1",
+    "async": "^2.0.1",
+    "babel-core": "^6.0.0",
+    "babel-jest": "^6.0.1",
+    "babel-polyfill": "^6.1.4",
+    "bl": "^1.0.0",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "file-system": "^2.2.1",
+    "jest-cli": "^0.7.1",
+    "mysql": "^2.13.0",
+    "node-uuid": "^1.4.7",
+    "node-wit": "^3.2.2",
+    "predict-next-word": "^0.1.4",
+    "request": "^2.72.0",
+    "sleep": "^5.1.0",
+    "watson-developer-cloud": "^1.9.2",
+    "yargs": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunkim/Wit-Facebook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hunkim/Wit-Facebook/issues"
+  },
+  "homepage": "https://github.com/hunkim/Wit-Facebook#readme",
+  "devDependencies": {
+    "standard": "*"
+  }
+}
